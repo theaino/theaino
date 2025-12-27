@@ -1,1 +1,1 @@
-[codeberg.com/theaino](https://codeberg.com/theaino)
+[codeberg.org/theaino](https://codeberg.org/theaino)
