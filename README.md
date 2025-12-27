@@ -1,1 +1,1 @@
-No fancy stats profile
+[codeberg.com/theaino](https://codeberg.com/theaino)
